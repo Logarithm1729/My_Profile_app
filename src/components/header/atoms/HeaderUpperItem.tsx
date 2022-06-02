@@ -3,7 +3,6 @@ import Link from "next/link";
 
 import styles from "../../../styles/header.module.scss";
 
-
 interface PROPS_HEADER_ITEM {
   content: string;
 }

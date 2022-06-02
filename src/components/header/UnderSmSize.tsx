@@ -53,7 +53,7 @@ const UnderSmSize: NextPage<PROPS_TITLE> = (props) => {
           <Box onClick={() => setMenuOpen(!menuOpen)}>
             <HeaderTitle>{title}</HeaderTitle>
           </Box>
-          <Box sx={{ display: "flex", flexDirection: "column", width: '30%' }}>
+          <Box sx={{ display: "flex", flexDirection: "column", width: "30%" }}>
             <HeaderUnderItem
               content="about"
               onClick={() => setMenuOpen(!menuOpen)}
