@@ -1,0 +1,15 @@
+.profile {
+    &__name {
+        font-weight: 700;
+        font-size: 24px;
+        margin: 0;
+    }
+
+    &__subdetail {
+        margin: 10px 0 30px 0;
+    }
+    &__content {
+        font-size: 20px;
+        letter-spacing: 0.05rem;
+    }
+}
