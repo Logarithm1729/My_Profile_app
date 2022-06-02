@@ -71,7 +71,7 @@ export default function Index() {
         >
           <h2 className={styles.sub__title}>My Life and Works</h2>
           <p className={styles.sub__content}>
-            I'm a graduete student
+            I am a graduete student
             <br />
             and specializing a electronics in Toyama Univ.
             <br />

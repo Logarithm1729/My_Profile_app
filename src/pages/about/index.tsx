@@ -54,12 +54,12 @@ const Index = () => {
           <Box className="About">
             <h2>About me</h2>
             <p className={styles.profile__content}>
-              I'm a graduate student of toyama university. My interesting field
+              I&#39;m a graduate student of toyama university. My interesting field
               is Web technology, Mearchine Learning. I have been learning
               Machine learnging using Python and TensorFlow. I analyzed image,
               natural language. It is impressed for me. Now, I learn and work
               web technology such as Next.js, Rest Framework API, Programming
-              Competition. If you are ok, let's see video below. This video is
+              Competition. If you are ok, let&#39;s see video below. This video is
               introducing a web app that I created.
             </p>
             <Box
@@ -73,6 +73,7 @@ const Index = () => {
                 <a
                   href="https://www.youtube.com/watch?v=dMcffr7eMzc"
                   target="_blank"
+                  rel="noreferrer"
                   style={{ textDecoration: "none", color: "white" }}
                 >
                   watch video
