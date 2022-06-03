@@ -16,6 +16,7 @@ export const VideoBackground = () => {
       }}
     >
       <video autoPlay loop muted playsInline className={styles.video}>
+        <source src="/assets/TopBackground.webm" />
         <source src="/assets/TopBackground.mp4" />
       </video>
     </Box>
