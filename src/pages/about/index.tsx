@@ -88,7 +88,7 @@ const Index = () => {
               alignItems="center"
             >
               <ImageCard
-                width={400}
+                width={300}
                 height={200}
                 imgPath="/assets/worksImg/no4.png"
                 title="Auth Modal"
@@ -97,7 +97,7 @@ const Index = () => {
                 component of Material Ui.
               </ImageCard>
               <ImageCard
-                width={400}
+                width={300}
                 height={200}
                 imgPath="/assets/worksImg/no7.png"
                 title="Timeline"

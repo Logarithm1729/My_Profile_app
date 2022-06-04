@@ -22,7 +22,7 @@ const UpperSmSize: NextPage<PROPS_TITLE> = (props) => {
       <Box className="header-item">
         <HeaderUpperItem content="about" />
         <HeaderUpperItem content="works" />
-        <HeaderUpperItem content="contact" />
+        {/* <HeaderUpperItem content="contact" /> */}
       </Box>
     </Box>
   );

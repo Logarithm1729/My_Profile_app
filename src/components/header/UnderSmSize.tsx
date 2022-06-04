@@ -62,10 +62,10 @@ const UnderSmSize: NextPage<PROPS_TITLE> = (props) => {
               content="works"
               onClick={() => setMenuOpen(!menuOpen)}
             />
-            <HeaderUnderItem
+            {/* <HeaderUnderItem
               content="contact"
               onClick={() => setMenuOpen(!menuOpen)}
-            />
+            /> */}
           </Box>
         </Box>
       </SwipeableDrawer>
