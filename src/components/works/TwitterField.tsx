@@ -47,7 +47,7 @@ const TwitterField: NextPage = () => {
               <li>Redux tool kit</li>
             </ul>
             <p style={{ fontWeight: "300" }}>
-              Now I'm learning how to deploy.
+              Now I am learning how to deploy.
               <br />
               You can see detail of this app on{" "}
               <a
